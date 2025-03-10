@@ -1,0 +1,381 @@
+Altium Designer Pick and Place Locations
+C:\Users\wangw\Documents\Project\Altium\smart_car_motherboard\Project Outputs for smart_car_motherboard\Pick Place for smart_car_panelization.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/03/25
+Time:       18:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint                          Center-X(mil) Center-Y(mil) Rotation 
+L1         6.8uH          TopLayer CDRH3D16_4.2*1.8                   577.142       483.976       180      
+R4         1k             TopLayer 0805R                              2815.000      1680.000      180      
+R3         1k             TopLayer 0805R                              2815.000      1590.000      180      
+LM1        LM2940         TopLayer SOT-223                            704.032       1038.173      270      
+S3         SW-SPST        TopLayer SWITCH                             1720.000      2335.886      270      
+S1         SW-SPST        TopLayer SWITCH                             350.000       1355.000      270      
+U6         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      1035.000      180      
+U5         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      1335.000      180      
+U4         MIC29302       TopLayer TO_263_5(10.5*8.4mm)               444.941       1936.063      0        
+U3         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      1635.000      180      
+U2         LM2663         TopLayer SOP_8(OPA)                         1150.000      815.000       90       
+U1         TPS73633       TopLayer SOT23_5-LEADS                      1550.000      565.118       0        
+S2         "SW DIP-4"     TopLayer 4-way_dip_switch                   3672.520      1950.000      0        
+R31        1k             TopLayer 0805R                              3495.000      800.000       90       
+R30        1k             TopLayer 0603R                              3680.000      1165.000      90       
+R29        1k             TopLayer 0805R                              2739.488      385.000       90       
+R28        1k             TopLayer 0805R                              2626.496      385.000       90       
+R27        1k             TopLayer 0805R                              2513.504      385.000       90       
+R26        1k             TopLayer 0805R                              2400.512      385.000       90       
+R25        1k             TopLayer 0603R                              3680.000      1395.000      90       
+R24        1k             TopLayer 0805R                              2815.000      1080.000      180      
+R23        1k             TopLayer 0603R                              3384.921      1800.000      180      
+R22        1k             TopLayer 0603R                              3384.921      1900.000      180      
+R21        1k             TopLayer 0805R                              2815.000      990.000       180      
+R20        1k             TopLayer 0603R                              3384.921      2000.000      180      
+R19        1k             TopLayer 0805R                              2325.000      990.000       0        
+R18        1k             TopLayer 0805R                              2325.000      1080.000      0        
+R17        1k             TopLayer 0603R                              3385.000      2100.000      180      
+R16        3.3k           TopLayer 0603R                              1335.000      2235.000      270      
+R15        3.3k           TopLayer 0603R                              1190.000      2235.000      270      
+R14        3.3k           TopLayer 0603R                              2860.000      2235.000      270      
+R13        2.2k           TopLayer 0603R                              2715.000      2235.000      270      
+R12        1k             TopLayer 0603R                              2570.000      2235.000      270      
+R11        1k             TopLayer 0805R                              2815.000      1380.000      180      
+R10        1k             TopLayer 0805R                              2815.000      1290.000      180      
+R9         1k             TopLayer 0805R                              2325.000      1290.000      0        
+R8         1k             TopLayer 0805R                              2325.000      1380.000      0        
+R7         1k             TopLayer 0805R                              620.000       2195.000      180      
+R6         1k             TopLayer 0805R                              1000.000      1980.000      90       
+R5         3.9k           TopLayer 0805R                              620.000       2275.000      0        
+R2         1k             TopLayer 0805R                              2325.000      1590.000      0        
+R1         1k             TopLayer 0805R                              2325.000      1680.000      0        
+Q1         2N3904         TopLayer TO-92A                             3630.000      800.000       180      
+LS1        Bell           TopLayer Buzzer_side_mounted                3805.000      651.142       90       
+L2         100M           TopLayer 0603R                              1410.000      1140.000      270      
+J17        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          3805.000      1160.000      90       
+J16        CCD            TopLayer HDR1X5                             2045.000      117.937       180      
+J15        "servo drive"  TopLayer HDR1X3                             865.000       2429.449      0        
+J14        BM             TopLayer HDR2X4                             2570.000      167.937       0        
+J13        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          3805.000      1390.000      90       
+J12        "HEADER 11X2"  TopLayer HDR2X11                            3188.332      1369.668      270      
+J11        "HEADER 11X2"  TopLayer HDR2X11                            1948.962      1369.668      270      
+J10        "HEADER 10X2"  TopLayer HDR2X10                            2568.647      719.668       180      
+J9         bluetooth      TopLayer HDR1X4                             3288.332      2429.449      0        
+J8         "motor drive"  TopLayer HDR2X3                             2253.962      2379.449      180      
+J7         CON12          TopLayer HDR2X6                             1630.000      1119.668      90       
+J6         CON12_2        TopLayer HDR2X6                             1630.000      1810.000      90       
+J5         OLED           TopLayer HDR1X6                             3145.000      117.937       180      
+J4         CON4           TopLayer B0505S-2W                          830.465       310.000       0        
+J3         AD-KEY         TopLayer HDR1X3                             1945.000      411.063       180      
+J2         +              TopLayer Single-sided_pad_2*3MM_1PIN        253.665       1045.000      270      
+J1         -              TopLayer Single-sided_pad_2*3MM_1PIN        253.665       611.050       270      
+H4         HOLE           TopLayer Copper_Pillar_Hole×3               196.850       196.850       0        
+H3         HOLE           TopLayer Copper_Pillar_Hole×3               196.850       2362.205      0        
+H2         HOLE           TopLayer Copper_Pillar_Hole×3               3740.157      2362.205      0        
+H1         HOLE           TopLayer Copper_Pillar_Hole×3               3740.157      196.850       0        
+D9         "Diode 1N4005" TopLayer SS34_3D                            3630.000      535.000       270      
+D8         LED_2          TopLayer 0805D                              1335.000      2407.598      90       
+D7         LED_2          TopLayer 0805D                              1190.000      2407.598      90       
+D6         LED_2          TopLayer 0805D                              2860.000      2407.598      90       
+D5         LED_2          TopLayer 0805D                              2715.000      2407.598      90       
+D4         LED_2          TopLayer 0805D                              2570.000      2407.598      90       
+D3         1N5819         TopLayer 0805D                              710.000       1517.402      90       
+D2         SS34           TopLayer 0805D                              710.000       1305.000      270      
+D1         1N5819         TopLayer 0805D                              1440.000      720.000       0        
+C17        CAP104         TopLayer 0805C                              3495.000      490.000       90       
+C16        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 1150.000      440.000       0        
+C15        0.1uF          TopLayer 0805C                              895.000       411.457       180      
+C14        0.1uF          TopLayer 0805C                              563.284       650.000       180      
+C13        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 585.000       770.000       180      
+C12        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 865.000       1680.000      90       
+C11        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 865.000       1955.000      270      
+C10        4.7uF          TopLayer 0805C                              750.000       513.583       90       
+C9         0.1uF          TopLayer 0805C                              1000.252      1303.031      90       
+C8         22uF           TopLayer C-type_Tantalum_Capacitors_6032_28 865.000       1384.724      90       
+C7         47uF           TopLayer D-type_Tantalum_Capacitors_7343_31 448.303       1610.000      180      
+C6         100uF          TopLayer D-type_Tantalum_Capacitors_7343_31 1145.000      1082.465      0        
+C5         0.1uF          TopLayer 0805C                              1245.000      1230.000      0        
+C4         10uF           TopLayer 0805C                              950.000       885.000       90       
+C3         47uF           TopLayer C-type_Tantalum_Capacitors_6032_28 1145.000      585.000       0        
+C2         4.7uF          TopLayer 0805C                              1700.000      570.000       270      
+C1         4.7uF          TopLayer 0805C                              1400.000      570.000       90       
+L1         6.8uH          TopLayer CDRH3D16_4.2*1.8                   577.142       3043.032      180      
+R4         1k             TopLayer 0805R                              2815.000      4239.055      180      
+R3         1k             TopLayer 0805R                              2815.000      4149.055      180      
+LM1        LM2940         TopLayer SOT-223                            704.032       3597.228      270      
+S3         SW-SPST        TopLayer SWITCH                             1720.000      4894.941      270      
+S1         SW-SPST        TopLayer SWITCH                             350.000       3914.055      270      
+U6         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      3594.055      180      
+U5         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      3894.055      180      
+U4         MIC29302       TopLayer TO_263_5(10.5*8.4mm)               444.941       4495.118      0        
+U3         HCPL0631       TopLayer SOP_8(OPA)                         2570.000      4194.055      180      
+U2         LM2663         TopLayer SOP_8(OPA)                         1150.000      3374.055      90       
+U1         TPS73633       TopLayer SOT23_5-LEADS                      1550.000      3124.173      0        
+S2         "SW DIP-4"     TopLayer 4-way_dip_switch                   3672.520      4509.055      0        
+R31        1k             TopLayer 0805R                              3495.000      3359.055      90       
+R30        1k             TopLayer 0603R                              3680.000      3724.055      90       
+R29        1k             TopLayer 0805R                              2739.488      2944.055      90       
+R28        1k             TopLayer 0805R                              2626.496      2944.055      90       
+R27        1k             TopLayer 0805R                              2513.504      2944.055      90       
+R26        1k             TopLayer 0805R                              2400.512      2944.055      90       
+R25        1k             TopLayer 0603R                              3680.000      3954.055      90       
+R24        1k             TopLayer 0805R                              2815.000      3639.055      180      
+R23        1k             TopLayer 0603R                              3384.921      4359.055      180      
+R22        1k             TopLayer 0603R                              3384.921      4459.055      180      
+R21        1k             TopLayer 0805R                              2815.000      3549.055      180      
+R20        1k             TopLayer 0603R                              3384.921      4559.055      180      
+R19        1k             TopLayer 0805R                              2325.000      3549.055      0        
+R18        1k             TopLayer 0805R                              2325.000      3639.055      0        
+R17        1k             TopLayer 0603R                              3385.000      4659.055      180      
+R16        3.3k           TopLayer 0603R                              1335.000      4794.055      270      
+R15        3.3k           TopLayer 0603R                              1190.000      4794.055      270      
+R14        3.3k           TopLayer 0603R                              2860.000      4794.055      270      
+R13        2.2k           TopLayer 0603R                              2715.000      4794.055      270      
+R12        1k             TopLayer 0603R                              2570.000      4794.055      270      
+R11        1k             TopLayer 0805R                              2815.000      3939.055      180      
+R10        1k             TopLayer 0805R                              2815.000      3849.055      180      
+R9         1k             TopLayer 0805R                              2325.000      3849.055      0        
+R8         1k             TopLayer 0805R                              2325.000      3939.055      0        
+R7         1k             TopLayer 0805R                              620.000       4754.055      180      
+R6         1k             TopLayer 0805R                              1000.000      4539.055      90       
+R5         3.9k           TopLayer 0805R                              620.000       4834.055      0        
+R2         1k             TopLayer 0805R                              2325.000      4149.055      0        
+R1         1k             TopLayer 0805R                              2325.000      4239.055      0        
+Q1         2N3904         TopLayer TO-92A                             3630.000      3359.055      180      
+LS1        Bell           TopLayer Buzzer_side_mounted                3805.000      3210.197      90       
+L2         100M           TopLayer 0603R                              1410.000      3699.055      270      
+J17        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          3805.000      3719.055      90       
+J16        CCD            TopLayer HDR1X5                             2045.000      2676.992      180      
+J15        "servo drive"  TopLayer HDR1X3                             865.000       4988.504      0        
+J14        BM             TopLayer HDR2X4                             2570.000      2726.992      0        
+J13        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          3805.000      3949.055      90       
+J12        "HEADER 11X2"  TopLayer HDR2X11                            3188.332      3928.723      270      
+J11        "HEADER 11X2"  TopLayer HDR2X11                            1948.962      3928.723      270      
+J10        "HEADER 10X2"  TopLayer HDR2X10                            2568.647      3278.723      180      
+J9         bluetooth      TopLayer HDR1X4                             3288.332      4988.504      0        
+J8         "motor drive"  TopLayer HDR2X3                             2253.962      4938.504      180      
+J7         CON12          TopLayer HDR2X6                             1630.000      3678.723      90       
+J6         CON12_2        TopLayer HDR2X6                             1630.000      4369.055      90       
+J5         OLED           TopLayer HDR1X6                             3145.000      2676.992      180      
+J4         CON4           TopLayer B0505S-2W                          830.465       2869.055      0        
+J3         AD-KEY         TopLayer HDR1X3                             1945.000      2970.118      180      
+J2         +              TopLayer Single-sided_pad_2*3MM_1PIN        253.665       3604.055      270      
+J1         -              TopLayer Single-sided_pad_2*3MM_1PIN        253.665       3170.105      270      
+H4         HOLE           TopLayer Copper_Pillar_Hole×3               196.850       2755.905      0        
+H3         HOLE           TopLayer Copper_Pillar_Hole×3               196.850       4921.260      0        
+H2         HOLE           TopLayer Copper_Pillar_Hole×3               3740.157      4921.260      0        
+H1         HOLE           TopLayer Copper_Pillar_Hole×3               3740.157      2755.905      0        
+D9         "Diode 1N4005" TopLayer SS34_3D                            3630.000      3094.055      270      
+D8         LED_2          TopLayer 0805D                              1335.000      4966.654      90       
+D7         LED_2          TopLayer 0805D                              1190.000      4966.654      90       
+D6         LED_2          TopLayer 0805D                              2860.000      4966.654      90       
+D5         LED_2          TopLayer 0805D                              2715.000      4966.654      90       
+D4         LED_2          TopLayer 0805D                              2570.000      4966.654      90       
+D3         1N5819         TopLayer 0805D                              710.000       4076.457      90       
+D2         SS34           TopLayer 0805D                              710.000       3864.055      270      
+D1         1N5819         TopLayer 0805D                              1440.000      3279.055      0        
+C17        CAP104         TopLayer 0805C                              3495.000      3049.055      90       
+C16        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 1150.000      2999.055      0        
+C15        0.1uF          TopLayer 0805C                              895.000       2970.512      180      
+C14        0.1uF          TopLayer 0805C                              563.284       3209.055      180      
+C13        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 585.000       3329.055      180      
+C12        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 865.000       4239.055      90       
+C11        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 865.000       4514.055      270      
+C10        4.7uF          TopLayer 0805C                              750.000       3072.638      90       
+C9         0.1uF          TopLayer 0805C                              1000.252      3862.086      90       
+C8         22uF           TopLayer C-type_Tantalum_Capacitors_6032_28 865.000       3943.779      90       
+C7         47uF           TopLayer D-type_Tantalum_Capacitors_7343_31 448.303       4169.055      180      
+C6         100uF          TopLayer D-type_Tantalum_Capacitors_7343_31 1145.000      3641.520      0        
+C5         0.1uF          TopLayer 0805C                              1245.000      3789.055      0        
+C4         10uF           TopLayer 0805C                              950.000       3444.055      90       
+C3         47uF           TopLayer C-type_Tantalum_Capacitors_6032_28 1145.000      3144.055      0        
+C2         4.7uF          TopLayer 0805C                              1700.000      3129.055      270      
+C1         4.7uF          TopLayer 0805C                              1400.000      3129.055      90       
+L1         6.8uH          TopLayer CDRH3D16_4.2*1.8                   4514.150      483.976       180      
+R4         1k             TopLayer 0805R                              6752.008      1680.000      180      
+R3         1k             TopLayer 0805R                              6752.008      1590.000      180      
+LM1        LM2940         TopLayer SOT-223                            4641.039      1038.173      270      
+S3         SW-SPST        TopLayer SWITCH                             5657.008      2335.886      270      
+S1         SW-SPST        TopLayer SWITCH                             4287.008      1355.000      270      
+U6         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      1035.000      180      
+U5         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      1335.000      180      
+U4         MIC29302       TopLayer TO_263_5(10.5*8.4mm)               4381.949      1936.063      0        
+U3         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      1635.000      180      
+U2         LM2663         TopLayer SOP_8(OPA)                         5087.008      815.000       90       
+U1         TPS73633       TopLayer SOT23_5-LEADS                      5487.008      565.118       0        
+S2         "SW DIP-4"     TopLayer 4-way_dip_switch                   7609.528      1950.000      0        
+R31        1k             TopLayer 0805R                              7432.008      800.000       90       
+R30        1k             TopLayer 0603R                              7617.008      1165.000      90       
+R29        1k             TopLayer 0805R                              6676.496      385.000       90       
+R28        1k             TopLayer 0805R                              6563.504      385.000       90       
+R27        1k             TopLayer 0805R                              6450.512      385.000       90       
+R26        1k             TopLayer 0805R                              6337.520      385.000       90       
+R25        1k             TopLayer 0603R                              7617.008      1395.000      90       
+R24        1k             TopLayer 0805R                              6752.008      1080.000      180      
+R23        1k             TopLayer 0603R                              7321.929      1800.000      180      
+R22        1k             TopLayer 0603R                              7321.929      1900.000      180      
+R21        1k             TopLayer 0805R                              6752.008      990.000       180      
+R20        1k             TopLayer 0603R                              7321.929      2000.000      180      
+R19        1k             TopLayer 0805R                              6262.008      990.000       0        
+R18        1k             TopLayer 0805R                              6262.008      1080.000      0        
+R17        1k             TopLayer 0603R                              7322.008      2100.000      180      
+R16        3.3k           TopLayer 0603R                              5272.008      2235.000      270      
+R15        3.3k           TopLayer 0603R                              5127.008      2235.000      270      
+R14        3.3k           TopLayer 0603R                              6797.008      2235.000      270      
+R13        2.2k           TopLayer 0603R                              6652.008      2235.000      270      
+R12        1k             TopLayer 0603R                              6507.008      2235.000      270      
+R11        1k             TopLayer 0805R                              6752.008      1380.000      180      
+R10        1k             TopLayer 0805R                              6752.008      1290.000      180      
+R9         1k             TopLayer 0805R                              6262.008      1290.000      0        
+R8         1k             TopLayer 0805R                              6262.008      1380.000      0        
+R7         1k             TopLayer 0805R                              4557.008      2195.000      180      
+R6         1k             TopLayer 0805R                              4937.008      1980.000      90       
+R5         3.9k           TopLayer 0805R                              4557.008      2275.000      0        
+R2         1k             TopLayer 0805R                              6262.008      1590.000      0        
+R1         1k             TopLayer 0805R                              6262.008      1680.000      0        
+Q1         2N3904         TopLayer TO-92A                             7567.008      800.000       180      
+LS1        Bell           TopLayer Buzzer_side_mounted                7742.008      651.142       90       
+L2         100M           TopLayer 0603R                              5347.008      1140.000      270      
+J17        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          7742.008      1160.000      90       
+J16        CCD            TopLayer HDR1X5                             5982.008      117.937       180      
+J15        "servo drive"  TopLayer HDR1X3                             4802.008      2429.449      0        
+J14        BM             TopLayer HDR2X4                             6507.008      167.937       0        
+J13        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          7742.008      1390.000      90       
+J12        "HEADER 11X2"  TopLayer HDR2X11                            7125.340      1369.668      270      
+J11        "HEADER 11X2"  TopLayer HDR2X11                            5885.970      1369.668      270      
+J10        "HEADER 10X2"  TopLayer HDR2X10                            6505.655      719.668       180      
+J9         bluetooth      TopLayer HDR1X4                             7225.340      2429.449      0        
+J8         "motor drive"  TopLayer HDR2X3                             6190.970      2379.449      180      
+J7         CON12          TopLayer HDR2X6                             5567.008      1119.668      90       
+J6         CON12_2        TopLayer HDR2X6                             5567.008      1810.000      90       
+J5         OLED           TopLayer HDR1X6                             7082.008      117.937       180      
+J4         CON4           TopLayer B0505S-2W                          4767.472      310.000       0        
+J3         AD-KEY         TopLayer HDR1X3                             5882.008      411.063       180      
+J2         +              TopLayer Single-sided_pad_2*3MM_1PIN        4190.673      1045.000      270      
+J1         -              TopLayer Single-sided_pad_2*3MM_1PIN        4190.673      611.050       270      
+H4         HOLE           TopLayer Copper_Pillar_Hole×3               4133.858      196.850       0        
+H3         HOLE           TopLayer Copper_Pillar_Hole×3               4133.858      2362.205      0        
+H2         HOLE           TopLayer Copper_Pillar_Hole×3               7677.165      2362.205      0        
+H1         HOLE           TopLayer Copper_Pillar_Hole×3               7677.165      196.850       0        
+D9         "Diode 1N4005" TopLayer SS34_3D                            7567.008      535.000       270      
+D8         LED_2          TopLayer 0805D                              5272.008      2407.598      90       
+D7         LED_2          TopLayer 0805D                              5127.008      2407.598      90       
+D6         LED_2          TopLayer 0805D                              6797.008      2407.598      90       
+D5         LED_2          TopLayer 0805D                              6652.008      2407.598      90       
+D4         LED_2          TopLayer 0805D                              6507.008      2407.598      90       
+D3         1N5819         TopLayer 0805D                              4647.008      1517.402      90       
+D2         SS34           TopLayer 0805D                              4647.008      1305.000      270      
+D1         1N5819         TopLayer 0805D                              5377.008      720.000       0        
+C17        CAP104         TopLayer 0805C                              7432.008      490.000       90       
+C16        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 5087.008      440.000       0        
+C15        0.1uF          TopLayer 0805C                              4832.008      411.457       180      
+C14        0.1uF          TopLayer 0805C                              4500.291      650.000       180      
+C13        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4522.008      770.000       180      
+C12        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4802.008      1680.000      90       
+C11        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4802.008      1955.000      270      
+C10        4.7uF          TopLayer 0805C                              4687.008      513.583       90       
+C9         0.1uF          TopLayer 0805C                              4937.260      1303.031      90       
+C8         22uF           TopLayer C-type_Tantalum_Capacitors_6032_28 4802.008      1384.724      90       
+C7         47uF           TopLayer D-type_Tantalum_Capacitors_7343_31 4385.311      1610.000      180      
+C6         100uF          TopLayer D-type_Tantalum_Capacitors_7343_31 5082.008      1082.465      0        
+C5         0.1uF          TopLayer 0805C                              5182.008      1230.000      0        
+C4         10uF           TopLayer 0805C                              4887.008      885.000       90       
+C3         47uF           TopLayer C-type_Tantalum_Capacitors_6032_28 5082.008      585.000       0        
+C2         4.7uF          TopLayer 0805C                              5637.008      570.000       270      
+C1         4.7uF          TopLayer 0805C                              5337.008      570.000       90       
+L1         6.8uH          TopLayer CDRH3D16_4.2*1.8                   4514.150      3043.032      180      
+R4         1k             TopLayer 0805R                              6752.008      4239.055      180      
+R3         1k             TopLayer 0805R                              6752.008      4149.055      180      
+LM1        LM2940         TopLayer SOT-223                            4641.039      3597.228      270      
+S3         SW-SPST        TopLayer SWITCH                             5657.008      4894.941      270      
+S1         SW-SPST        TopLayer SWITCH                             4287.008      3914.055      270      
+U6         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      3594.055      180      
+U5         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      3894.055      180      
+U4         MIC29302       TopLayer TO_263_5(10.5*8.4mm)               4381.949      4495.118      0        
+U3         HCPL0631       TopLayer SOP_8(OPA)                         6507.008      4194.055      180      
+U2         LM2663         TopLayer SOP_8(OPA)                         5087.008      3374.055      90       
+U1         TPS73633       TopLayer SOT23_5-LEADS                      5487.008      3124.173      0        
+S2         "SW DIP-4"     TopLayer 4-way_dip_switch                   7609.528      4509.055      0        
+R31        1k             TopLayer 0805R                              7432.008      3359.055      90       
+R30        1k             TopLayer 0603R                              7617.008      3724.055      90       
+R29        1k             TopLayer 0805R                              6676.496      2944.055      90       
+R28        1k             TopLayer 0805R                              6563.504      2944.055      90       
+R27        1k             TopLayer 0805R                              6450.512      2944.055      90       
+R26        1k             TopLayer 0805R                              6337.520      2944.055      90       
+R25        1k             TopLayer 0603R                              7617.008      3954.055      90       
+R24        1k             TopLayer 0805R                              6752.008      3639.055      180      
+R23        1k             TopLayer 0603R                              7321.929      4359.055      180      
+R22        1k             TopLayer 0603R                              7321.929      4459.055      180      
+R21        1k             TopLayer 0805R                              6752.008      3549.055      180      
+R20        1k             TopLayer 0603R                              7321.929      4559.055      180      
+R19        1k             TopLayer 0805R                              6262.008      3549.055      0        
+R18        1k             TopLayer 0805R                              6262.008      3639.055      0        
+R17        1k             TopLayer 0603R                              7322.008      4659.055      180      
+R16        3.3k           TopLayer 0603R                              5272.008      4794.055      270      
+R15        3.3k           TopLayer 0603R                              5127.008      4794.055      270      
+R14        3.3k           TopLayer 0603R                              6797.008      4794.055      270      
+R13        2.2k           TopLayer 0603R                              6652.008      4794.055      270      
+R12        1k             TopLayer 0603R                              6507.008      4794.055      270      
+R11        1k             TopLayer 0805R                              6752.008      3939.055      180      
+R10        1k             TopLayer 0805R                              6752.008      3849.055      180      
+R9         1k             TopLayer 0805R                              6262.008      3849.055      0        
+R8         1k             TopLayer 0805R                              6262.008      3939.055      0        
+R7         1k             TopLayer 0805R                              4557.008      4754.055      180      
+R6         1k             TopLayer 0805R                              4937.008      4539.055      90       
+R5         3.9k           TopLayer 0805R                              4557.008      4834.055      0        
+R2         1k             TopLayer 0805R                              6262.008      4149.055      0        
+R1         1k             TopLayer 0805R                              6262.008      4239.055      0        
+Q1         2N3904         TopLayer TO-92A                             7567.008      3359.055      180      
+LS1        Bell           TopLayer Buzzer_side_mounted                7742.008      3210.197      90       
+L2         100M           TopLayer 0603R                              5347.008      3699.055      270      
+J17        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          7742.008      3719.055      90       
+J16        CCD            TopLayer HDR1X5                             5982.008      2676.992      180      
+J15        "servo drive"  TopLayer HDR1X3                             4802.008      4988.504      0        
+J14        BM             TopLayer HDR2X4                             6507.008      2726.992      0        
+J13        CON2           TopLayer 2PIN_Dupont_socket_1.27mm          7742.008      3949.055      90       
+J12        "HEADER 11X2"  TopLayer HDR2X11                            7125.340      3928.723      270      
+J11        "HEADER 11X2"  TopLayer HDR2X11                            5885.970      3928.723      270      
+J10        "HEADER 10X2"  TopLayer HDR2X10                            6505.655      3278.723      180      
+J9         bluetooth      TopLayer HDR1X4                             7225.340      4988.504      0        
+J8         "motor drive"  TopLayer HDR2X3                             6190.970      4938.504      180      
+J7         CON12          TopLayer HDR2X6                             5567.008      3678.723      90       
+J6         CON12_2        TopLayer HDR2X6                             5567.008      4369.055      90       
+J5         OLED           TopLayer HDR1X6                             7082.008      2676.992      180      
+J4         CON4           TopLayer B0505S-2W                          4767.472      2869.055      0        
+J3         AD-KEY         TopLayer HDR1X3                             5882.008      2970.118      180      
+J2         +              TopLayer Single-sided_pad_2*3MM_1PIN        4190.673      3604.055      270      
+J1         -              TopLayer Single-sided_pad_2*3MM_1PIN        4190.673      3170.105      270      
+H4         HOLE           TopLayer Copper_Pillar_Hole×3               4133.858      2755.905      0        
+H3         HOLE           TopLayer Copper_Pillar_Hole×3               4133.858      4921.260      0        
+H2         HOLE           TopLayer Copper_Pillar_Hole×3               7677.165      4921.260      0        
+H1         HOLE           TopLayer Copper_Pillar_Hole×3               7677.165      2755.905      0        
+D9         "Diode 1N4005" TopLayer SS34_3D                            7567.008      3094.055      270      
+D8         LED_2          TopLayer 0805D                              5272.008      4966.654      90       
+D7         LED_2          TopLayer 0805D                              5127.008      4966.654      90       
+D6         LED_2          TopLayer 0805D                              6797.008      4966.654      90       
+D5         LED_2          TopLayer 0805D                              6652.008      4966.654      90       
+D4         LED_2          TopLayer 0805D                              6507.008      4966.654      90       
+D3         1N5819         TopLayer 0805D                              4647.008      4076.457      90       
+D2         SS34           TopLayer 0805D                              4647.008      3864.055      270      
+D1         1N5819         TopLayer 0805D                              5377.008      3279.055      0        
+C17        CAP104         TopLayer 0805C                              7432.008      3049.055      90       
+C16        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 5087.008      2999.055      0        
+C15        0.1uF          TopLayer 0805C                              4832.008      2970.512      180      
+C14        0.1uF          TopLayer 0805C                              4500.291      3209.055      180      
+C13        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4522.008      3329.055      180      
+C12        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4802.008      4239.055      90       
+C11        22uF           TopLayer B-type_Tantalum_Capacitors_3528_21 4802.008      4514.055      270      
+C10        4.7uF          TopLayer 0805C                              4687.008      3072.638      90       
+C9         0.1uF          TopLayer 0805C                              4937.260      3862.086      90       
+C8         22uF           TopLayer C-type_Tantalum_Capacitors_6032_28 4802.008      3943.779      90       
+C7         47uF           TopLayer D-type_Tantalum_Capacitors_7343_31 4385.311      4169.055      180      
+C6         100uF          TopLayer D-type_Tantalum_Capacitors_7343_31 5082.008      3641.520      0        
+C5         0.1uF          TopLayer 0805C                              5182.008      3789.055      0        
+C4         10uF           TopLayer 0805C                              4887.008      3444.055      90       
+C3         47uF           TopLayer C-type_Tantalum_Capacitors_6032_28 5082.008      3144.055      0        
+C2         4.7uF          TopLayer 0805C                              5637.008      3129.055      270      
+C1         4.7uF          TopLayer 0805C                              5337.008      3129.055      90       
