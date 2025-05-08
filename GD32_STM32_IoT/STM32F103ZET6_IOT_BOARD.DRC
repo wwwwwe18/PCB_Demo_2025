@@ -1,0 +1,424 @@
+Date and Time : 05/07/25 17:34:38
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict J6,SHLD1  Bidirectional Connected to Power
+                    SCHEMATIC1, P07_USB_BLE_WIFI  (55.88, 33.02) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,SHLD2  Bidirectional Connected to Power
+                    SCHEMATIC1, P07_USB_BLE_WIFI  (55.88, 35.56) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,SHLD3  Bidirectional Connected to Power
+                    SCHEMATIC1, P07_USB_BLE_WIFI  (55.88, 38.10) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,SHLD4  Bidirectional Connected to Power
+                    SCHEMATIC1, P07_USB_BLE_WIFI  (55.88, 40.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VREF-  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (340.36, 81.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSSA  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (340.36, 60.96) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS11  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 81.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS4  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 63.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS9  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 76.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS8  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 73.66) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS7  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 71.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS5  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 66.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS6  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 68.58) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS3  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 60.96) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS2  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 58.42) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS10  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 78.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS1  Power Connected to Bidirectional
+                    SCHEMATIC1, P05_MCU  (375.92, 55.88) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,VBUS  Bidirectional Connected to Power
+                    SCHEMATIC1, P07_USB_BLE_WIFI  (81.28, 27.94) 
+WARNING(ORCAP-1831): Unconnected pin U3,PA15_JTDI 
+                    SCHEMATIC1, P05_MCU  (114.30, 223.52) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+    MCU_SPI2_SCK
+    MCU_ADC_IN2
+    MCU_USART2_TX
+    FSMC_D0
+    MCU_SDIO_CD
+    FSMC_A10
+    MCU_DH11
+    MCU_ADC_IN3
+    MCU_USART1_TX
+    MCU_USART3_RX
+    FSMC_D1
+    FSMC_A11
+    MCU_BUZZER
+    USB_DM
+    MCU_USART2_RX
+    FSMC_D2
+    FSMC_A12
+    MCU_BRIG0
+    MCU_USART1_RX
+    FSMC_D3
+    FSMC_A13
+    MCU_SPI1_NSS
+    FSMC_A0
+    MCU_BRIG1
+    MCU_SPI2_NSS
+    MCU_LCD_DC
+    FSMC_D4
+    FSMC_NOE
+    FSMC_A14
+    FSMC_A1
+    USB_DP
+    FSMC_D5
+    MCU_SDIO_CMD
+    FSMC_A2
+    MCU_LED1
+    MCU_CAN_TX
+    FSMC_D6
+    FSMC_A3
+    MCU_LED2
+    FSMC_D7
+    FSMC_A4
+    MCU_LED3
+    MCU_CAN_RX
+    FSMC_A5
+    VCC_IN_P
+    FSMC_A6
+    MCU_I2C1_SCL
+    MCU_PE0_SW3
+    MCU_DS18B20
+    MCU_ADC_V_DET
+    MCU_USART1_CTL
+    FSMC_A7
+    MCU_PWM1
+    MCU_RS485_CTL_R
+    FSMC_A8
+    MCU_PWM2
+    MCU_PE1_SW4
+    MCU_PA0_SW1
+    MCU_SPI2_NSS2
+    MCU_LCD_BLK
+    MCU_USB_CTL
+    FSMC_A9
+    MCU_PWM3
+    MCU_LCD_RST
+    FSMC_NWE
+    MCU_SDIO_D0
+    MCU_SDIO_CLK
+    MCU_PWM4
+    MCU_PA1_SW2
+    MCU_ADC_I_DET
+    MCU_RS485_CTL_D
+    MCU_I2C1_SDA
+    MCU_SDIO_D1
+    MCU_SPI2_MISO
+    MCU_SPI2_MOSI
+    MCU_ADC_IN0
+    MCU_SDIO_D2
+    MCU_RELAY_CTRL
+    MCU_ADC_IN1
+    MCU_USART3_TX
+    MCU_SPI1_SCK
+    MCU_SPI1_MOSI
+    MCU_SPI1_MISO
+    FSMC_NCE
+    MCU_SDIO_D3
+
+Reporting Globals
+    VCC5V
+    VCC5V_USB
+    GND
+    VCC_RTC
+    VCC3V3
+    VCC12V
+
+Reporting Net Names
+    MCU_PA1_SW2
+    GND
+    N67645
+    MCU_LED2
+    MCU_PA0_SW1
+    MCU_PE1_SW4
+    VCC3V3
+    MCU_LED3
+    MCU_PE0_SW3
+    N67032
+    N67729
+    MCU_LED1
+    PWM3_MOTOR_CTRL
+    N80320
+    MOTOR_PWM2
+    PWM4_MOTOR_CTRL
+    N80102
+    MOTOR_PWM4
+    MCU_PWM3
+    VCC5V
+    MCU_PWM1
+    N79980
+    MOTOR_PWM1
+    PWM1_MOTOR_CTRL
+    N80210
+    MCU_PWM4
+    MOTOR_PWM3
+    PWM2_MOTOR_CTRL
+    MCU_PWM2
+    FSMC_D4
+    FSMC_NOE
+    MCU_SPI1_MISO
+    MCU_I2C1_SDA
+    MCU_SPI1_SCK
+    FSMC_NWE
+    MCU_SDIO_D0
+    FSMC_A5
+    FSMC_D0
+    MCU_SDIO_D3
+    FSMC_D1
+    FSMC_D5
+    FSMC_A11
+    FSMC_A1
+    FSMC_D6
+    FSMC_A8
+    MCU_SPI1_NSS
+    MCU_SDIO_CLK
+    FSMC_D3
+    MCU_I2C1_SCL
+    MCU_SDIO_D2
+    FSMC_A4
+    FSMC_A7
+    FSMC_D7
+    MCU_SPI1_WP_N
+    MCU_SPI1_HOLD_N
+    FSMC_A2
+    FSMC_A13
+    MCU_SPI1_MOSI
+    MCU_SDIO_CMD
+    FSMC_A6
+    FSMC_A0
+    FSMC_D2
+    FSMC_A12
+    MCU_SDIO_CD
+    FSMC_A10
+    FSMC_NCE
+    FSMC_A14
+    MCU_SDIO_D1
+    FSMC_A3
+    FSMC_A9
+    N48772
+    MCU_USART2_TX
+    USB_DP
+    MCU_USART2_RX
+    N47138
+    N48034
+    N47116
+    USB_DM
+    N48278
+    N48102
+    N46661
+    MCU_USB_CTL
+    VCC5V_USB
+    N48242
+    MCU_USART3_RX
+    MCU_USART3_TX
+    N45905
+    N45976
+    MCU_232_TX
+    N43169
+    RS232_TX
+    RS485_B
+    MCU_USART1_CTL
+    N42689
+    N39274
+    MCU_CAN_RX
+    MCU_485_RX
+    N39270
+    N39328
+    RS485_A
+    MCU_RS485_CTL_D
+    RS232_RX
+    CANH
+    MCU_CAN_TX
+    MCU_USART1_TX
+    N39173
+    CANL
+    MCU_485_TX
+    MCU_RS485_CTL_R
+    MCU_232_RX
+    MCU_USART1_RX
+    N38869
+    N39324
+    MCU_PA13_SYS_JTMS-SWDIO
+    MCU_SPI2_SCK
+    MCU_BUZZER
+    MCU_LCD_RST
+    MCU_ADC_IN3
+    MCU_ADC_IN0
+    MCU_BRIG1
+    MCU_DS18B20
+    XTAL_32.768K_OUT
+    MCU_ADC_I_DET
+    MCU_BOOT0
+    MCU_BRIG0
+    MCU_PA14_SYS_JTCK-SWCLK
+    MCU_PB2_BOOT1
+    MCU_SPI2_MOSI
+    N15498
+    MCU_SPI2_MISO
+    MCU_LCD_BLK
+    MCU_SPI2_NSS2
+    N34452
+    MCU_DH11
+    VCC_RTC
+    XTAL_8M_IN
+    N14802
+    MCU_RSTN
+    MCU_ADC_V_DET
+    XTAL_8M_OUT
+    MCU_LCD_DC
+    MCU_ADC_IN2
+    MCU_SPI2_NSS
+    XTAL_32.768K_IN
+    MCU_ADC_IN1
+    N00558
+    VCC12V
+    N00670
+    N02985
+    VCC_IN_P
+    N02233
+    N02512
+    N07818
+    N01931
+    N00666
+    N70722
+    N70532
+    N92883
+    MCU_RELAY_CTRL
+    N93110
+    N93447
+    N93456
+    N93463
+    N93551
+    N93692
+    N93699
+
+Checking Misleading Tap connection
+
+ERROR(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: STM32F103ZET6_IOT_BOARD 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U13,Vss  Vss  GND
+                    SCHEMATIC1, P08_FLASH_EEPROM_TF  (81.28, 187.96) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VREF-  VREF-  GND
+                    SCHEMATIC1, P05_MCU  (340.36, 81.28) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSSA  VSSA  GND
+                    SCHEMATIC1, P05_MCU  (340.36, 60.96) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS11  VSS11  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 81.28) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS4  VSS4  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 63.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS9  VSS9  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 76.20) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS8  VSS8  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 73.66) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS7  VSS7  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 71.12) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS5  VSS5  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 66.04) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS6  VSS6  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 68.58) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS3  VSS3  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 60.96) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS2  VSS2  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 58.42) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS10  VSS10  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 78.74) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS1  VSS1  GND
+                    SCHEMATIC1, P05_MCU  (375.92, 55.88) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U13,Vcc  Vcc  VCC3V3
+                    SCHEMATIC1, P08_FLASH_EEPROM_TF  (121.92, 154.94) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,Vout  Vout  VCC3V3
+                    SCHEMATIC1, P04_POWER  (182.88, 203.20) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,Vout  Vout  VCC3V3
+                    SCHEMATIC1, P04_POWER  (182.88, 205.74) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD6  VDD6  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 40.64) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD9  VDD9  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 48.26) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD11  VDD11  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 53.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD10  VDD10  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 50.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD8  VDD8  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 45.72) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD7  VDD7  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 43.18) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD4  VDD4  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 35.56) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD5  VDD5  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 38.10) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD3  VDD3  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 33.02) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDDA  VDDA  VCC3V3
+                    SCHEMATIC1, P05_MCU  (340.36, 50.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD1  VDD1  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 27.94) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD2  VDD2  VCC3V3
+                    SCHEMATIC1, P05_MCU  (375.92, 30.48) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VREF+  VREF+  VCC3V3
+                    SCHEMATIC1, P05_MCU  (340.36, 71.12) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VBAT  VBAT  VCC_RTC
+                    SCHEMATIC1, P05_MCU  (340.36, 38.10) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
